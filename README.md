@@ -101,6 +101,3 @@ The core analysis was implemented using the permitted Python features and NumPy.
 
 
 
----
-
-*Developed as part of the Unlox Academy Industry-Graded Minor Project.*
