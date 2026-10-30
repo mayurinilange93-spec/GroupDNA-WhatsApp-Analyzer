@@ -8,7 +8,7 @@
 
 Dashboard generated using the official `hostel_bois.txt` dataset provided for the Unlox Academy Industry-Graded Minor Project.
 
-![Official GroupDNA Dashboard](dashboard.png)
+![Official GroupDNA Dashboard](Dashboard.png)
 
 ### 2. Personal Group Data Dashboard
 
